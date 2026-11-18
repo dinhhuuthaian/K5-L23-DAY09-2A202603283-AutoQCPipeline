@@ -1,7 +1,4 @@
 # Báo cáo Day 09 — Đinh Hữu Thái An, 2A202603283
-
-> Xoá mọi `TODO(học viên)` và dòng gợi ý. Mỗi ý trả lời bằng **số lấy từ `submission/reports/`**, kèm mẫu số. Cả báo cáo ~1–2 trang.
-
 ## 1. Kết luận trước
 Pipeline kết luận Hold. Lô có 224 ảnh, bước 1 loại 22 (hỏng, kích thước, trùng, rò rỉ test) còn 202 ảnh. Dataset xuất ra clean_v1 có 202 ảnh (bản nháp, chưa phát hành). Lý do Hold: không còn lỗi bắt buộc nhưng 38/202 ảnh (18,8%) còn cảnh báo, vượt ngưỡng 10%; hàng đợi có 125 ảnh mà ngân sách duyệt chỉ 80.
 ## 2. Lỗi và phân việc
